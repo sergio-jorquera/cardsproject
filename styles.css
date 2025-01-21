@@ -11,6 +11,10 @@ header{
     padding: 50px;
 }
 
+h1{
+    color: rgb(246, 253, 251);
+    font-style: italic;
+}
 .card {
     width:100%;
     display: flex;
@@ -82,7 +86,7 @@ footer {
     justify-content: space-between; /* Coloca un elemento en cada extremo */
     align-items: center; /* Centra los elementos verticalmente */
     background-color: hsl(34, 84%, 64%);
-    padding: 30px; 
+    padding: 35px; 
     color: white; 
 }
 
